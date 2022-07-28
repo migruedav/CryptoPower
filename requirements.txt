@@ -2,3 +2,4 @@ binance
 pyrebase
 Pyrebase4
 python_binance2
+PyJWT
