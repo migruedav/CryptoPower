@@ -25,7 +25,8 @@ for i in range(1,457):
     d = 19-((18/456)*i)
     days_fact.append(d)
 
-USDT = ['1INCH','AAVE']
+USDT = ['1INCH','AAVE','ADA','ALGO','ALICE','ALPHA','ANKR','APE','ATOM','AUDIO','AVAX','BAKE','BAND','BCH','BLZ','BNB','BTC','CELO','CHZ','COMP','COTI','CRV','DASH','DOGE','DOT','DUSK','ENJ','EOS','ETC','ETH','FIL','FTM','FTT','GALA','GMT','HOT','ICP','IOTA','KAVA','KLAY','KSM','LINK','LRC','LTC','MANA','MATIC','MKR','NEAR','NEO','OCEAN','ONE','ONT','OP','QTUM','REEF','REN','RLC','RUNE','RVN','SAND','SOL','STORJ','SUSHI','SXP','THETA','TOMO','TRX','UNFI','UNI','VET','WAVES','XEM','XLM','XMR','XRP','XTZ','YFI','ZEC','ZEN','ZIL'
+]
 
 
 def cryptopower():
